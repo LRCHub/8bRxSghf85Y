@@ -1,0 +1,30 @@
+# Breakaway – The Bitter Truth
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:12.05] It started as love
+[00:14.98] Love leads us to war
+[00:18.32] Can I really care enough if you never cared at all
+[00:24.52] Its not the first and it wont be the last
+[00:29.83] Im an addict for a dramatic life
+[00:33.29] Its written in my past
+[00:38.13] Ive seen that part of you
+[00:43.70] Where I found the bitter truth
+[00:49.22] Theres nowhere left to hide that could save this life
+[00:55.83] So Ill say goodbye to you
+[01:00.78] Wherever you are
+[01:03.77] you break and you scar
+[01:06.95] Youll never get the best of me
+[01:09.89] youll never get that far
+[01:12.94] As youre breaking down
+[01:15.98] with no one around
+[01:19.16] Think of how you got that way
+[01:22.05] remember who you are
+[01:26.73] Ive seen that part of you
+[01:32.35] Where I found the bitter truth
+[01:37.74] Theres nowhere left to hide that could save this life
+[01:44.40] So Ill say goodbye to you
+[01:51.06] Ive seen that part of you
+[02:33.07] Where I found the bitter truth
+```
